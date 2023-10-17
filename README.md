@@ -6,7 +6,7 @@
 
     1. Firstly, you have to create a database named student in mysql with the given credentials in application.yml file.
     
-    2. Start the Mysql Service and Run the jar file using the follwing command:
+    2. Start the Mysql Service in your local device and Run the jar file using the follwing command:
         
         java -jar springrest-0.0.1-SNAPSHOT.jar
     
